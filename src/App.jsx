@@ -1,5 +1,6 @@
 
 import './App.css'
+import FooterDiv from './FooterDiv'
 import HeroDiv from './HeroDiv'
 import HowToStart from './HowToStart'
 import MidLine from './MidLine'
@@ -20,6 +21,7 @@ function App() {
    <HowToStart></HowToStart>
    <Pricing></Pricing>
    <Transform></Transform>
+   <FooterDiv></FooterDiv>
     </div>
     </>
   )
