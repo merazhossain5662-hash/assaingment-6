@@ -6,6 +6,7 @@ import MidLine from './MidLine'
 
 import NavDiv from './NavDiv'
 import Pricing from './Pricing'
+import Transform from './Transform'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
    <MidLine></MidLine>
    <HowToStart></HowToStart>
    <Pricing></Pricing>
+   <Transform></Transform>
     </div>
     </>
   )
