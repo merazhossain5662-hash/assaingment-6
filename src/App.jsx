@@ -5,6 +5,7 @@ import HowToStart from './HowToStart'
 import MidLine from './MidLine'
 
 import NavDiv from './NavDiv'
+import Pricing from './Pricing'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
    <HeroDiv></HeroDiv>
    <MidLine></MidLine>
    <HowToStart></HowToStart>
+   <Pricing></Pricing>
     </div>
     </>
   )

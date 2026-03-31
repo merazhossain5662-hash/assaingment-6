@@ -5,7 +5,7 @@ const HowToStart = () => {
         <div className='bg-[#efefef] sm:p-4 md:p-6 lg:p-8'>
             <div className='w-10/12 mx-auto space-y-3.5'>
             <div className='text-center'>
-                <h1 className='text-4xl font-bold'>Get Started in 3 Steps</h1>
+                <h1 className='text-5xl font-bold'>Get Started in 3 Steps</h1>
                 <p className='text-[#627382]'>Start using premium digital tools in minutes, not hours.</p>
             </div>
             <section className='grid sm:grid-cols-1 py-8 gap-2 md:grid-cols-2 lg:grid-cols-3'>
