@@ -12,3 +12,6 @@ A Modern and responsive productivity web application that combains lots of featu
 🔍 Explore a wide range of AI-powered tools and digital products
 🎯 Clean and modern SaaS landing page design
 ⚡ Fast and responsive user experience across devices
+
+# Author
+Meraz Hossain
