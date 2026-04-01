@@ -16,7 +16,7 @@ software—all in one place. Start creating faster today.Explore Products</p>
            </div>
          </div>
          <div>
-            <img src="/public/banner.png" alt="" />
+            <img src="/banner.png" alt="" />
          </div>
         </div>
     );
